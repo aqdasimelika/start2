@@ -3,6 +3,9 @@
 
 ![Awesome Banner](https://github.com/aqdasimelika/start2/blob/main/industrial-designer-digital-art.jpg)
 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/melika-aqdasi-b82353344/)
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqdasimelika&show_icons=true&theme=radical)
 
 
@@ -12,4 +15,3 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/melika-aqdasi-b82353344/)
