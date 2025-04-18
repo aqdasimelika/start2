@@ -1,4 +1,4 @@
-# start
+# start2
 ![Profile Views](https://komarev.com/ghpvc/?username=aqdasimelika&color=brightgreen)
 
 ![Awesome Banner](https://raw.githubusercontent.com/aqdasimelika/aqdasimelika/main/wallpapersden.com_tree-alone-dark-evening-4k_3840x2160.jpg)
@@ -10,4 +10,3 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-# start2
