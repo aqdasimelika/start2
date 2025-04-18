@@ -2,6 +2,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=aqdasimelika&color=brightgreen)
 
 ![Awesome Banner](https://github.com/aqdasimelika/start2/blob/main/industrial-designer-digital-art.jpg)
+<img src="https://readme-typing-svg.herokuapp.com?lines=Hi!+I+am+programmer!;Love+learning+and+building+new+projects&center=true&width=480&height=50">
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/melika-aqdasi-b82353344/)
 
