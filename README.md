@@ -1,7 +1,7 @@
 # start2
 ![Profile Views](https://komarev.com/ghpvc/?username=aqdasimelika&color=brightgreen)
 
-![Awesome Banner](https://github.com/aqdasimelika/start2/blob/main/1_TKH9CLzzDeWMFidVCRW5qg.png)
+![Awesome Banner](https://github.com/aqdasimelika/start2/blob/main/industrial-designer-digital-art.jpg)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqdasimelika&show_icons=true&theme=radical)
 
