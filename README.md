@@ -1,7 +1,7 @@
 # start2
 ![Profile Views](https://komarev.com/ghpvc/?username=aqdasimelika&color=brightgreen)
 
-![Awesome Banner](https://raw.githubusercontent.com/aqdasimelika/aqdasimelika/main/wallpapersden.com_tree-alone-dark-evening-4k_3840x2160.jpg)
+![Awesome Banner](https://github.com/aqdasimelika/start2/blob/main/wallpapersden.com_tree-alone-dark-evening-4k_3840x2160.jpg)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqdasimelika&show_icons=true&theme=radical)
 
 
